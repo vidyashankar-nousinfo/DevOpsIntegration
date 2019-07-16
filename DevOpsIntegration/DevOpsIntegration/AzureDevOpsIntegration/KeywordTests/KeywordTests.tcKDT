@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="CloseApplication" key="{6306C9D0-C645-40D8-BFAB-4E3CE91C94AD}" path="CloseApplication.tcKDTest" />
+		<child name="CreateOrders" key="{8009D2F3-0268-4EF0-A6D3-22416E0652B0}" path="CreateOrders.tcKDTest" />
+		<child name="DeleteOrder" key="{82AD7882-5E78-4B67-9C57-879F5E52B187}" path="DeleteOrder.tcKDTest" />
+		<child name="EditOrder" key="{DEBCE822-1D83-4C17-BFAC-072EDA0DD47E}" path="EditOrder.tcKDTest" />
+		<child name="LaunchOrdersApplication" key="{8F67BD65-749B-42BE-9C4E-BC3E29968EF2}" path="LaunchOrdersApplication.tcKDTest" />
+	</children>
+</Root>

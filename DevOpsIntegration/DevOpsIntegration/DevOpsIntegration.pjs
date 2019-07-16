@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{7938B275-CB77-4639-AA36-ACBDD6C4EBD6}">
+	<children>
+		<child name="AzureDevOpsIntegration" key="{E47B46A4-7FAB-4B0A-B343-7F5BF8564383}" path="AzureDevOpsIntegration\AzureDevOpsIntegration.mds" />
+	</children>
+	<testItems key="{30167564-C2F1-45E5-99DB-A449EB462224}">
+		<children>
+			<testItem key="{E47B46A4-7FAB-4B0A-B343-7F5BF8564383}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{55A8B453-4DCF-4F36-B33D-92DF4B00BD9C}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{9A913577-ED51-461A-BADD-BED8B9EA5644}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>

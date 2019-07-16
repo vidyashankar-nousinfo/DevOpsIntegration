@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{5D848212-351C-4691-8713-BED91951D590}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Sys.Process(&quot;Orders&quot;)" Data="61717A697000000001000000000000007801030000000001" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{180A2D9C-07CF-406C-A3AD-F5F88281A719}">
+				<Data Description="Closes the process by sending the close command to its main window." Action="Close" Process="Orders" Index="1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="60000" VarType="3" ValueType="1" ValueValue="60000" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{D952F40B-867B-4ED3-AC6F-0DC3BCA12F1B}" />
+	<Parameters Key="{261797EF-1F15-4CB2-B1BB-1AE1284F5A46}" />
+</Root>
